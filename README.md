@@ -38,7 +38,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Water Footprint Tracker](REPLACE-repo-link)** 🏆 | AI web app that identifies food from an image, camera or text and estimates its Blue, Green and Grey water footprint, plus crop suitability for your location | React, Node, Express, MongoDB, AI |
+| **[Water Footprint Tracker](https://github.com/karthisn22-gif/water-footprint-app)** 🏆 | AI web app that identifies food from an image, camera or text and estimates its Blue, Green and Grey water footprint, plus crop suitability for your location | React, Node, Express, MongoDB, AI |
 | **[Green Product Sales Hub](REPLACE-repo-link)** | Platform connecting farmers directly with customers, with no middlemen and multilingual support | React, Node, Express, MongoDB |
 
 ## 🏅 Achievements
