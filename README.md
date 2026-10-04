@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-e0mv.onrender.com"><img src="https://img.shields.io/badge/🌐_View_My_Portfolio-0D1117?style=for-the-badge&labelColor=1f6feb"></a>
+  <a href="https://waterfootprintapp.onrender.com/"><img src="https://img.shields.io/badge/💧_Try_Water_Footprint_App-0D1117?style=for-the-badge&labelColor=2ea043"></a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/karthisn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/u/karthikeyan_sn"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="mailto:karthi.sn22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -36,10 +41,10 @@
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Water Footprint Tracker](https://github.com/karthisn22-gif/water-footprint-app)** 🏆 | AI web app that identifies food from an image, camera or text and estimates its Blue, Green and Grey water footprint, plus crop suitability for your location | React, Node, Express, MongoDB, AI |
-| **[Green Product Sales Hub](REPLACE-repo-link)** | Platform connecting farmers directly with customers, with no middlemen and multilingual support | React, Node, Express, MongoDB |
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Water Footprint Tracker** 🏆 | AI-powered app that identifies food from an image, camera or text and shows its Blue, Green and Grey water footprint, crop suitability, irrigation method and farming tips for your location | React, Node, Express, MongoDB, AI | [Live Demo](https://waterfootprintapp.onrender.com/) · [Code](https://github.com/karthisn22-gif/water-footprint-app) |
+| **Green Product Sales Hub** | Platform connecting farmers directly with customers, with no middlemen and multilingual support | React, Node, Express, MongoDB | [Code](REPLACE-repo-link) |
 
 ## 🏅 Achievements
 - 🥉 3rd place, college hackathon at BIT (2025)
